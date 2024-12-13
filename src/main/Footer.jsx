@@ -31,7 +31,6 @@ const Footer = () => {
                     <ul className="footer-nav">
                         <li><a href="#"> {teamdata.footer.f_home}</a></li>
                         <li><a href="#"> {teamdata.footer.f_contact}</a></li>
-                        {/* <li><a href="#"> {teamdata.footer.f_login}</a></li> */}
                     </ul>
                 </div>
             </div>
