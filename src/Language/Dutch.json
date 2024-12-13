@@ -1,0 +1,130 @@
+{
+    "header": {
+        "home": "Huis",
+        "price": "Prijs",
+        "contact": "Contact",
+        "login": "Inloggen"
+    },
+    "home": {
+        "home_first": "Welkom bij Verified",
+        "home_first_sub": "Leads Duurzame Leads met Volledige Transparantie",
+        "home_sec": "Bij Verified Leads bieden we bedrijven in de duurzame sector toegang tot hoogwaardige leads gericht op producten zoals isolatie, laadpalen, zonnepanelen en thuisbatterijen. Wat ons onderscheidt van andere leadgeneratoren is onze focus op transparantie en betrouwbaarheid. Elke lead die we leveren wordt geleverd met een geluidsopname, zodat je zeker weet dat de klant heeft ingestemd met het ontvangen van een offerte. Hiermee kun je je verkoopinspanningen efficiënt richten op gekwalificeerde en goed geïnformeerde prospects.",
+        "home_button1": "Meld je aan",
+        "home_button2": "Log in op ons platform"
+    },
+    "process": {
+        "process_first": "Wat zijn duurzame leads?",
+        "process_p1": "Duurzame leads zijn potentiële klanten die serieus geïnteresseerd zijn in het duurzamer maken van hun huis of bedrijf. Of het nu gaat om energiebesparing door isolatie, de installatie van laadstations voor elektrische voertuigen, zonnepanelen voor groene energie of thuisbatterijen voor zonne-energieopslag, wij zorgen ervoor dat je alleen leads ontvangt die daadwerkelijk klaar zijn om actie te ondernemen.",
+        "process_p2": "Wat Verified Leads uniek maakt, is dat al onze leads worden geleverd met een geluidsopname. Dit betekent dat je altijd kunt luisteren naar het moment waarop de klant zijn goedkeuring heeft gegeven om een offerte te ontvangen, wat zorgt voor maximale transparantie en vertrouwen in het verkoopproces."
+    },
+    "feature": {
+        "title": "Onze Diensten",
+        "feature_data": [
+            {
+                "icon": "SlEnergy",
+                "title": "Isolatiebedrijven",
+                "points": "We leveren leads van huiseigenaren en bedrijven die hun huizen of gebouwen willen isoleren voor energie-efficiëntie. Of het nu gaat om spouwmuurisolatie, dakisolatie of vloerisolatie, onze leads zijn specifiek gericht op klanten die bereid zijn te investeren in het duurzamer maken van hun pand."
+            },
+            {
+                "icon": "FaChargingStation",
+                "title": "Laadstations",
+                "points": "De vraag naar laadstations voor elektrische voertuigen groeit snel. We leveren leads van klanten die op zoek zijn naar laadoplossingen voor hun huis of bedrijf. Dankzij de geluidsopname kun je er zeker van zijn dat ze akkoord zijn gegaan met het ontvangen van een offerte voor de installatie."
+            },
+            {
+                "icon": "GiSolarPower",
+                "title": "Zonnepanelen",
+                "points": "Zonne-energie blijft een populaire keuze voor huiseigenaren en bedrijven die hun energiekosten willen verlagen en hun ecologische voetafdruk willen verkleinen. We leveren gekwalificeerde leads van klanten die zonnepanelen willen installeren, samen met de zekerheid van hun goedkeuring om een offerte te ontvangen via de geluidsopname."
+            },
+            {
+                "icon": "GiBatteries",
+                "title": "Thuisbatterij",
+                "points": "De groei van zonne-energie heeft de vraag naar thuisbatterijen vergroot, waarmee klanten de energie die ze produceren kunnen opslaan. We leveren leads van klanten die geïnteresseerd zijn in het installeren van thuisbatterijen, inclusief een geluidsopname die hun toestemming bevestigt om een offerte te ontvangen."
+            }
+        ]
+    },
+    "work": {
+        "work_title1": "Jouw wensen en behoeften",
+        "work_des1": "We beginnen met een gesprek om te begrijpen naar welke soorten leads je op zoek bent en in welke regio je actief bent. We passen de leadgeneratie aan op jouw specifieke behoeften.",
+        "work_title2": "Leadgeneratie",
+        "work_des2": "We verzamelen leads van klanten die op zoek zijn naar duurzame oplossingen zoals isolatie, laadstations, zonnepanelen of thuisbatterijen. We gebruiken geavanceerde technieken om ervoor te zorgen dat de leads van hoge kwaliteit zijn.",
+        "work_title3": "Geluidsopname:",
+        "work_des3": "Elke lead die we leveren bevat een geluidsopname, waarin duidelijk te horen is dat de klant akkoord gaat met het ontvangen van een offerte. Dit geeft jouw bedrijf de zekerheid dat je werkt met een goed geïnformeerde klant.",
+        "work_title4": "Leads ontvangen",
+        "work_des4": "Zodra we de leads hebben verzameld, leveren we ze direct aan jouw bedrijf. Je hebt toegang tot de volledige gegevens van de lead en de geluidsopname, zodat je de klant direct kunt benaderen.",
+        "work_title5": "Verhoogde conversie",
+        "work_des5": "Met gekwalificeerde leads en de bijbehorende goedkeuringsopnamen kun je je verkoopinspanningen optimaliseren en je conversiepercentages verbeteren."
+    },
+    "facility": {
+        "facility": "Waarom kiezen voor Verified Leads?",
+        "fac_1": "Duurzame en gekwalificeerde leads",
+        "fac_des1": "We zorgen ervoor dat de leads die we leveren relevant en goed geïnformeerd zijn. Door geavanceerde targetingtechnieken genereren we leads van klanten die oprecht geïnteresseerd zijn in duurzame oplossingen zoals isolatie, laadstations, zonnepanelen en thuisbatterijen.",
+        "fac_2": "Transparantie met geluidsopnamen",
+        "fac_des2": "Elke lead komt met een geluidsopname waarin de klant zijn of haar goedkeuring heeft gegeven om een offerte te ontvangen. Dit biedt volledige transparantie en gemoedsrust voor je verkoopteam.",
+        "fac_3": "Hogere conversiepercentages",
+        "fac_des3": "Door leads te leveren die al actief interesse hebben getoond en expliciet hun toestemming hebben gegeven, kan je team zich richten op warme prospects en de kans op succesvolle conversies vergroten.",
+        "fac_4": "Tijdwinst",
+        "fac_des4": "In plaats van tijd te besteden aan koud bellen en het vinden van de juiste prospects, leveren wij gekwalificeerde leads die klaar zijn voor opvolging. Dit stelt je in staat om je te concentreren op wat er echt toe doet: deals sluiten. Hoe werkt het?"
+    },
+    "contact": {
+        "contact_title": "Contactformulier",
+        "input_1": "Jouw Naam",
+        "placeholder1": "Voer je naam in",
+        "input_2": "Jouw E-mail",
+        "placeholder2": "Voer je e-mail in",
+        "input_3": "Jouw Telefoonnummer",
+        "placeholder3": "Voer je telefoonnummer in",
+        "form_button": "Volgende",
+        "contact": "Contact",
+        "us": "Onss",
+        "contact_info1": "Heb je vragen of wil je meer weten over hoe Verified Leads jouw bedrijf kan helpen?",
+        "contact_info2": "Neem gerust contact met ons op via [e-mail] of [telefoonnummer]. Ons team staat klaar om je verder te helpen!"
+    },
+    "footer": {
+        "f_home": "Home",
+        "f_contact": "Contact",
+        "f_login": "Inloggen"
+    },
+    "price1": {
+        "price_title": "Pakketten",
+        "price_head": "alle leads bevatten geluidsopnamen",
+        "price_desc": [
+            {
+                "title": "Basis",
+                "price": "$256",
+                "features": [
+                    "5 leads",
+                    "2 Lead Gratis",
+                    "EURO 53 / Lead",
+                    "GEEN MAANDELIJKSE",
+                    "KOSTEN"
+                ],
+                "color": "#368190"
+            },
+            {
+                "title": "Standaard",
+                "price": "$500",
+                "features": [
+                    "10 leads",
+                    "5 Lead Gratis",
+                    "EURO 50 / Lead",
+                    "GEEN MAANDELIJKSE",
+                    "KOSTEN"
+                ],
+                "color": "#367990"
+            },
+            {
+                "title": "Pro",
+                "price": "$940",
+                "features": [
+                    "20 leads",
+                    "10 Lead Gratis",
+                    "EURO 47 / Lead",
+                    "GEEN MAANDELIJKSE",
+                    "KOSTEN"
+                ],
+                "color": "#2b6071"
+            }
+        ],
+        "price_button": "KIES PLAN"
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "SlEnergy",
+        "title": "Insulation companies",
+        "points": "We provide leads from homeowners and businesses looking to insulate their homes or buildings for energy efficiency. Whether it’s cavity wall insulation, roof insulation or floor insulation, our leads are specifically targeted at customers who are ready to invest in making their property more sustainable."
+    },
+    {
+        "icon": "FaChargingStation",
+        "title": "Charging stations",
+        "points": "The demand for electric vehicle charging stations is growing rapidly. We provide leads from customers looking for charging solutions for their home or business. Thanks to the voice log recording, you can be assured that they have agreed to receive a quote for installation."
+    },
+    {
+        "icon": "GiSolarPower",
+        "title": "Solar panels",
+        "points": "Solar energy continues to be a popular choice for homeowners and businesses looking to reduce their energy costs while reducing their carbon footprint. We provide qualified leads from customers looking to install solar panels, along with the assurance of their approval to receive a quote via the voice log recording."
+    },
+    {
+        "icon": "GiBatteries",
+        "title": "Home Batterie",
+        "points": "The growth of solar energy has increased the demand for home batteries, which allow customers to store the energy they produce. We provide leads from customers who are interested in installing home batteries, complete with a voice log recording confirming their consent to receive a quote."
+    }
+]
