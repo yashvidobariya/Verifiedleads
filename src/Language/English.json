@@ -63,7 +63,7 @@
         "fac_3": "Higher conversion rates",
         "fac_des3": "By delivering leads that have already actively shown interest and explicitly given their consent, your team can focus on warm prospects and increase the chance of successful conversions.",
         "fac_4": "Saves time",
-        "fac_des4": "Instead of spending time on cold calling and finding the right prospects, we deliver qualified leads that are ready for follow-up. This allows you to focus on what really matters: closing deals. How does it work?"
+        "fac_des4": "Instead of spending time on cold calling and finding the right prospects, we deliver qualified leads that are ready for follow-up. This allows you to focus on what really matters: closing deals."
     },
     "contact": {
         "contact_title": "Contact form",
@@ -74,11 +74,10 @@
         "input_3": "Your TelePhone Number",
         "placeholder3": "Enter your Telephone Number",
         "form_button": " Next",
-        "contact": "Contact",
-        "us": "Us",
+        "contact": "Contact Us",
         "contact_info1": "Do you have any questions or would you like to",
         "contact_info2": "know more about how Verified Leads can help your business?",
-        "contact_info3": "Feel free to contact us at [email] or [phone number]. Our team is ready to help you further!"
+        "contact_info3": "Feel free to contact us at info@verifiedleads.nl or  +31203086820. Our team is ready to help you further!"
     },
     "footer": {
         "f_home": "Home",
@@ -91,40 +90,44 @@
         "price_desc": [
             {
                 "title": "Basic",
-                "price": "$256",
+                "price": "€ 256",
                 "features": [
-                    "5 leads",
+                    "5 Leads",
                     "2 Lead Free",
                     "EURO 53 / Lead",
                     "GEEN MAANDELIJKSE",
-                    "KOSTEN"
+                    "KOSTEN",
+                      "EXCLUSIVE LEADS"
                 ],
                 "color": "#368190"
             },
             {
                 "title": "Standard",
-                "price": "$500",
+                "price": "€ 500",
                 "features": [
-                    "10 leads",
+                    "10 Leads",
                     "5 Lead Free",
                     "EURO 50 / Lead",
                     "GEEN MAANDELIJKSE",
-                    "KOSTEN"
+                    "KOSTEN",
+                    "EXCLUSIVE LEADS"
                 ],
                 "color": "#367990"
             },
             {
                 "title": "Pro",
-                "price": "$940",
+                "price": "€ 940",
                 "features": [
-                    "20 leads",
+                    "20 Leads",
                     "10 Lead Free",
                     "EURO 47 / Lead",
                     "GEEN MAANDELIJKSE",
-                    "KOSTEN"
+                    "KOSTEN",
+                      "EXCLUSIVE LEADS"
                 ],
                 "color": "#2b6071"
             }
-        ]
+        ],
+        "price_button": "CHOOSE PLAN"
     }
 }
