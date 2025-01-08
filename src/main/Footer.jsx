@@ -93,7 +93,7 @@ const Footer = () => {
                 <a href="#" aria-hidden="true">
                   Papaverweg 34 - unit B100
                   <br />
-                  1032KJ Amsterda
+                  1032KJ Amsterdam
                 </a>
               </div>
             </div>
