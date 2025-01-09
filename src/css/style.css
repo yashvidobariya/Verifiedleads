@@ -758,7 +758,7 @@ textarea {
 
 .pricing-content {
   display: flex;
-  padding: 0 60px;
+  padding: 0 40px;
   gap: 30px;
   align-items: center;
   /* justify-content: center; */
